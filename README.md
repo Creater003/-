@@ -1,3 +1,6 @@
+note:- the code is in the seconed branch named "master"
+
+
 GOAL :- THE GOAL IS TO MAKE A RESPONSIVE E-COMMERCE APP BY USING THIRD PARTY DEPENDENCIES AND API's 
 
 APPROACH:-
